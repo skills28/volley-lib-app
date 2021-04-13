@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volley Library</string>
+    <string name="country_name">Country Name :</string>
+    <string name="capital_name">Capital Name :</string>
+    <string name="setting">Setting</string>
+    <string name="insert">Insert</string>
+    <string name="add_button">Add Button</string>
+    <string name="image_of_textdrawable">Image Of TextDrawable</string>
+</resources>
